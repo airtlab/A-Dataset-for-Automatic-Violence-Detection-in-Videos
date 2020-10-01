@@ -1,0 +1,17 @@
+ACTION CLASS;VIOLENT;OCCURRENCES
+choke;y;13
+club;y;36
+fight;y;46
+greet;n;33
+gunshot;y;14
+handgestures;n;15
+handshake;n;1
+highfive;n;6
+hug;n;16
+jump;n;10
+kick;y;21
+punch;y;23
+push;y;22
+slap;y;18
+stab;y;15
+walk;n;3

@@ -1,0 +1,7 @@
+#Scripts for renaming
+*.sh
+*.vbs
+*.bat
+
+#Dolphin view properties
+*.directory
