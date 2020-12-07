@@ -38,4 +38,19 @@ The clips were performed by a group of non-professional actors, varying from 2 t
 
 ## Dataset Release Agreement
 
-The dataset is freely released for research and educational purposes.
+The dataset is freely released for research and educational purposes. Please cite as
+- M. Bianculli, N. Falcionelli, P. Sernani, S. Tomassini, P. Contardo, M. Lombardi, A.F. Dragoni, A dataset for automatic violence detection in videos, Data in Brief 33 (2020). doi:10.1016/j.dib.2020.106587.
+	 
+Bibtex entry:
+
+	 @article{Bianculli2020,
+	  title = "A dataset for automatic violence detection in videos",
+	  journal = "Data in Brief",
+	  volume = "33",
+	  eid = "106587",
+	  year = "2020",
+	  doi = "doi:10.1016/j.dib.2020.106587",
+	  author = "Miriana Bianculli and Nicola Falcionelli and Paolo Sernani and Selene Tomassini and Paolo Contardo and Mara Lombardi and Aldo Franco Dragoni",
+	 }
+
+The paper is open access and available here <https://www.sciencedirect.com/science/article/pii/S2352340920314682>.
