@@ -49,7 +49,7 @@ Bibtex entry:
 	  volume = "33",
 	  eid = "106587",
 	  year = "2020",
-	  doi = "doi:10.1016/j.dib.2020.106587",
+	  doi = "10.1016/j.dib.2020.106587",
 	  author = "Miriana Bianculli and Nicola Falcionelli and Paolo Sernani and Selene Tomassini and Paolo Contardo and Mara Lombardi and Aldo Franco Dragoni",
 	 }
 
