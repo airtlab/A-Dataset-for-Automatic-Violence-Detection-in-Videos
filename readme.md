@@ -54,3 +54,10 @@ Bibtex entry:
 	 }
 
 The paper is open access and available here <https://www.sciencedirect.com/science/article/pii/S2352340920314682>.
+
+## Comparative Tests on the Dataset
+
+We compared the accuracy of 13 different neural network-based architectures on the proposed dataset. The results are published in
+>P. Sernani, N. Falcionelli, S. Tomassini, P. Contardo and A. F. Dragoni, "Deep Learning for Automatic Violence Detection: Tests on the AIRTLab Dataset," in IEEE Access, vol. 9, pp. 160580-160595, 2021, doi: 10.1109/ACCESS.2021.3131315.
+
+The paper is open access and available here <https://ieeexplore.ieee.org/document/9627980>.
